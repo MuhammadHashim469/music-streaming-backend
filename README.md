@@ -44,7 +44,7 @@ This backend supports:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/MuhammadHashim469/music-streaming-backend
 ```
 
 ---
@@ -52,7 +52,7 @@ git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
 ## 2️⃣ Move to Project Folder
 
 ```bash
-cd YOUR_PROJECT_NAME
+cd music-streaming-backend
 ```
 
 ---
